@@ -5,7 +5,7 @@
 
 
 # AIM:
-To develop the Library Management System using Star UML
+To develop the Library Management System using Star UML.
 
 # Problem Statement:
 1.Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
